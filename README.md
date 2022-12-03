@@ -16,7 +16,7 @@ Klasserna `User`, `Admin`, `Customer`, `Product`, `UserManager` och `ProductMana
 ## Redovisning
 Uppgiften ska lösas individuellt. 
 
-Du ska boka in minst 2 handledningstillfällen under arbete, ett senast en vecka efter uppgiftens start och en senast 3 dagar före deadline.
+Du ska boka in minst 2 handledningstillfällen under arbetet, ett senast en vecka efter uppgiftens start och en senast 3 dagar före deadline.
 Vid detta samtal ska du visa hur långt du kommit och ställa minst tre frågor om något du fastnat på eller vill ha hjälp med.
 
 ## Betygskriterier
